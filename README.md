@@ -1,9 +1,9 @@
 # CODE-STORY
 
-# This is just me talking about on of my days, nothing much
+
 <html>
   <head>
-    <title>This is just me talking about on of my days, nothing much</title>
+    <p>This is just me talking about on of my days, nothing much</p>
   </head>
   <body>
     <a href = "part1.html">Chapter 1</a>
