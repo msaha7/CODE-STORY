@@ -1,6 +1,4 @@
-# CODE-STORY
-
-
+# MY DAY AT UIC
 <html>
   <head>
     <p>This is just me talking about on of my days, nothing much</p>
